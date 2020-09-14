@@ -12,5 +12,5 @@ In this space I'll be talking about:
  - Being a woman in tech
  - Overcoming the impostor syndrome
  
- ... and lots of other exciting coding related topics! :computer:
+ ... and lots of other exciting coding related topics!
  
